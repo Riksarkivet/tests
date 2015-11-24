@@ -48,6 +48,7 @@ var LanguageLookup = function() {
 
     this.addLanguage('en-GB', 'English', '');
     this.addLanguage('cy-GB', 'Welsh', 'ûüúùŵẅẃẁŷÿýỳâäáàêëéèîïíìôöóò');
+    this.addLanguage('sv-SE', 'Swedish', 'åöä');
     this.addLanguage('xx-XX', 'TestLanguage', '');
 };
 

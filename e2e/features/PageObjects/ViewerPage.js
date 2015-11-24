@@ -282,7 +282,7 @@ var ViewerPage = function () {
         };
 
         this.settingsButton = function () {
-            return that.find('.imageBtn.settings');
+            return that.find('.rightOptions a.settings');
         };
 
         this.settingsMenuHeader = function() {
